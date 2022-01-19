@@ -21,11 +21,11 @@ export default function LoginView()
         </Text>
         <View style={styles.loginContainer}>
         <Text style={styles.loginText}>
-          Username   <TextInput placeholder=" Enter your Username " /></Text>
+          Username   <LoginInput placeholder=" Enter your Username " /></Text>
         </View>
         <View style={styles.loginContainer}>
         <Text style={styles.loginText}>
-         Password     <TextInput 
+         Password     <LoginInput 
           placeholder=" Enter your Password " 
           secureTextEntry
           autoCorrect={false}
