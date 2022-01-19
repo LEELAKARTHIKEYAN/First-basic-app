@@ -2,6 +2,14 @@
 
 ## Assignment-2
 
-- I have created a login screen which has username and password input with a login button.
-- I will post the screenshots soon.
-- Having problem in expo app
+I have created a login screen which has username and password input with a login button.
+
+#### Screenshots
+
+- The login screen without any input :
+
+- The login screen with inputs :
+
+- After clicking the Login button :
+
+

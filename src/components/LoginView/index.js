@@ -19,17 +19,20 @@ export default function LoginView()
         <Text style={styles.text2}>
         LOGIN TO GET THE VIBE 💎🎶
         </Text>
+        <View>
         <View style={styles.loginContainer}>
         <Text style={styles.loginText}>
-          Username   <LoginInput placeholder=" Enter your Username " /></Text>
+          Username   </Text>
+          <LoginInput placeholder=" Enter your Username "  />
         </View>
         <View style={styles.loginContainer}>
         <Text style={styles.loginText}>
-         Password     <LoginInput 
+          Password   </Text>
+          <LoginInput 
           placeholder=" Enter your Password " 
           secureTextEntry
-          autoCorrect={false}
-          /></Text>
+          autoCorrect={false}/>
+        </View>
         </View>
         <View style={{marginTop:30}}>
         <Button
@@ -51,6 +54,9 @@ const styles = StyleSheet.create({
     },
     loginContainer: {
       marginBottom:20,
+      display: 'flex',
+      flexDirection: 'row',
+      alignItems: 'center',
     },
     text1:{
       color:'#ff0059',
@@ -68,6 +74,7 @@ const styles = StyleSheet.create({
       color:'#ff0059',
       fontWeight:'bold',
       fontSize:15,
+     
     },
     
   });
