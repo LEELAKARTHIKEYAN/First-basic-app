@@ -1,18 +1,20 @@
 # Basic-App using React Native
 
-## Assignment-2
+## About
 
-I have created a login screen which has username and password input with a login button.
+A login screen which has username and password input with a login button made using React Native.
 
-### Screenshots
+## Images
 
 - The login screen without any input :
-![alt text](https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginScreen.jpeg?raw=true)
+<img src="https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginScreen.jpeg?raw=true" width="300" height="600">
 
 - The login screen with inputs :
-![alt text](https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginScreenWithInput.jpeg?raw=true)
+<img src="https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginScreenWithInput.jpeg?raw=true" width="300" height="600">
 
 - After clicking the Login button :
-![alt text](https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginButtonAlert.jpeg?raw=true)
+<img src="https://github.com/LEELAKARTHIKEYAN/First-basic-app/blob/master/ScreenShots/LoginButtonAlert.jpeg?raw=true" width="300" height="600">
+
+### May be in future I might add new features 👍
 
 
